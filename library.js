@@ -89,4 +89,5 @@ function libraryformsubmit(e) {
         display.show('danger','sorry you cannot add this book');
     }
     e.preventDefault();
+    // on jay branch ...........
 }
